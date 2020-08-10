@@ -1,4 +1,4 @@
 # Jogodavelha
-Jogo da Velha feito todo em js, html e css
+one of the best games you can play anywhere and anytime.
 
-Feito por https://github.com/IMayanLP
+It was made with the simplest technologies that are css, html and javascript
